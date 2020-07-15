@@ -1,3 +1,4 @@
+;; From: https://org-roam.readthedocs.io/en/master/installation/
 (defconst org-roam-packages
   '(org-roam))
 
