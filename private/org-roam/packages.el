@@ -7,7 +7,8 @@
     :hook
     (after-init . org-roam-mode)
     :custom
-    (org-roam-directory "~/dev_trees/resampling-slipbox/")
+    (org-roam-directory "~/dev_trees/resampling-with/")
+    (org-roam-file-extensions '("org" "Rmd" "md"))
     :init
     (progn
       (spacemacs/declare-prefix "ar" "org-roam")
