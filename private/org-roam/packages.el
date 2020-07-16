@@ -7,7 +7,7 @@
     :hook
     (after-init . org-roam-mode)
     :custom
-    (org-roam-directory "~/dev_trees/resampling-with/")
+    (org-roam-directory "~/dev_trees/resampling-roam/")
     (org-roam-file-extensions '("org" "Rmd" "md"))
     :init
     (progn
